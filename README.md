@@ -43,10 +43,5 @@
 </head>
 <body>
 
-    <div class="image-container">
-        <img src="your-image-url.jpg" alt="A beautiful scene">
-        <div class="image-caption">Your Caption Here</div>
-    </div>
-
 </body>
 </html>
